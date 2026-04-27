@@ -1,0 +1,5 @@
+echo venv/ >> .gitignore
+echo Lib/ >> .gitignore
+echo site-packages/ >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.dll >> .gitignore
